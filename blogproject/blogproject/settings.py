@@ -25,7 +25,7 @@ SECRET_KEY = '9pa_odmu-sda21&xn_&zwou+blh$7rhwp7ta*u2e4!r51b%--z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'zeizeijie.com','47.103.206.98']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'zeizeijie.club','47.103.206.98']
 
 
 # Application definition
